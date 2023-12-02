@@ -1,5 +1,5 @@
 {
-  "name": "NovaBot-MD",
+  "name": "ZloiBoT",
   "version": "1.0.2 (beta)",
   "description": "Bot de whatsapp",
   "main": "index.js",
@@ -7,7 +7,7 @@
   "scripts": {
   "start": "node index.js"
   },
-  "author": "elrebelde21",
+  "author": "ZloiAdmiN",
   "license": "ISC",
   "dependencies": {
    "@whiskeysockets/baileys": "^6.5.0",
